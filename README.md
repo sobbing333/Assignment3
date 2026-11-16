@@ -18,6 +18,7 @@ cd Assignment3
 
 ### 2. Create the database and table
 ```bash
+createdb students_db
 psql -d students_db -f database/create_table.sql
 psql -d students_db -f database/insert_data.sql
 ```
