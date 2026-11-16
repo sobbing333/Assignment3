@@ -42,7 +42,7 @@ DB_HOST = "host"
 ## Run
 
 ```bash
-python3 app/students_app.py
+python3 app/main.py
 ```
 
 > **Note**: Make sure your running from the root project directory
