@@ -1,6 +1,6 @@
 Python program that connects to a PostgreSQL database and performs Create, Read, Update and Delete operations on a students table.
 
-__Video__: DO NOT FORGET VIDEO
+__Video__: https://vimeo.com/1247146817
 
 ## Requirements
 - PostgreSQL
