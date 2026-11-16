@@ -3,7 +3,7 @@ Python program that connects to a PostgreSQL database and performs Create, Read,
 __Video__: DO NOT FORGET VIDEO
 
 ## Requirements
-- PostgreSQL with pgAdmin 4
+- PostgreSQL
 - Python 3
 - `psycopg2` library 
 
